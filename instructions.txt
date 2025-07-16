@@ -1,0 +1,175 @@
+please divide the work for this project amongst myself , Lukhanyo, Mike, Violet & Jasper:
+
+Objective
+
+This assignment evaluates your understanding of AI applications in software engineering through theoretical analysis, practical implementation, and ethical reflection. You will demonstrate how AI can automate tasks, enhance decision-making, and address challenges in software development.
+
+Submission Guidelines
+
+Code: Well-commented scripts/notebooks. (Shared on Github)
+
+Report: PDF with answers, screenshots, and reflections. (Shared on Community as an article)
+
+Presentation: A 3-minute video demo of your AI implementation. (Shared in Groups for Peer reviews)
+
+Grading Rubric
+
+Criteria	Weight
+Theoretical Depth & Accuracy	30%
+Code Functionality & Quality	50%
+Ethical Reflection	10%
+Creativity & Presentation	10%
+Tools & Resources
+
+AI Tools: GitHub Copilot, Testim.io, Google Colab.
+
+Datasets: Kaggle, GitHub Issues.
+
+Libraries: Scikit-learn, Pandas, Selenium.
+
+Why This Matters
+
+Career Relevance: Mastery of AI tools like Copilot and Selenium is highly sought after in tech roles.
+
+Ethical Awareness: Prepares you to build fair and inclusive AI-driven software.
+
+Deadline: 7 days. Let’s engineer smarter software! 🚀
+
+Need Help?
+
+Use documentation: GitHub Copilot, Testim.
+
+Join the Community discussion: #AISoftwareAssignment.
+
+Pro Tip: Start early and test incrementally—AI thrives on iteration! 🔄
+
+
+Part 1: Theoretical Analysis (30%)
+
+1. Short Answer Questions
+
+Q1: Explain how AI-driven code generation tools (e.g., GitHub Copilot) reduce development time. What are their limitations?
+
+Q2: Compare supervised and unsupervised learning in the context of automated bug detection.
+
+Q3: Why is bias mitigation critical when using AI for user experience personalization?
+
+2. Case Study Analysis
+
+Read the article: AI in DevOps: Automating Deployment Pipelines.
+
+Answer: How does AIOps improve software deployment efficiency? Provide two examples.
+
+Part 2: Practical Implementation (60%)
+
+Task 1: AI-Powered Code Completion
+
+Tool: Use a code completion tool like GitHub Copilot or Tabnine.
+
+Task:
+
+Write a Python function to sort a list of dictionaries by a specific key.
+
+Compare the AI-suggested code with your manual implementation.
+
+Document which version is more efficient and why.
+
+Deliverable: Code snippets + 200-word analysis.
+
+Task 2: Automated Testing with AI
+
+Framework: Use Selenium IDE with AI plugins or Testim.io.
+
+Task:
+
+Automate a test case for a login page (valid/invalid credentials).
+
+Run the test and capture results (success/failure rates).
+
+Explain how AI improves test coverage compared to manual testing.
+
+Deliverable: Test script + screenshot of results + 150-word summary.
+
+Task 3: Predictive Analytics for Resource Allocation
+
+Dataset: Use Kaggle Breast Cancer Dataset. https://www.kaggle.com/competitions/iuss-23-24-automatic-diagnosis-breast-cancer/data
+
+Goal:
+
+Preprocess data (clean, label, split).
+
+Train a model (e.g., Random Forest) to predict issue priority (high/medium/low).
+
+Evaluate using accuracy and F1-score.
+
+Deliverable: Jupyter Notebook + performance metrics.
+
+Part 3: Ethical Reflection (10%)
+
+Prompt: Your predictive model from Task 3 is deployed in a company. Discuss:
+
+Potential biases in the dataset (e.g., underrepresented teams).
+
+How fairness tools like IBM AI Fairness 360 could address these biases.
+
+Bonus Task (Extra 10%)
+
+Innovation Challenge: Propose an AI tool to solve a software engineering problem not covered in class (e.g., automated documentation generation).
+
+Deliverable: 1-page proposal outlining the tool’s purpose, workflow, and impact.
+ChatGPT said:
+Here's a fair and structured division of tasks among you (Tshimo), Lukhanyo, Mike, Violet, and Jasper based on strengths each team member might reasonably have and to balance workload across theoretical, technical, and reflective components:
+
+🔹 Tshimo
+Role: Project Lead + Ethical Analyst
+
+Theoretical Q3: Bias mitigation in user experience personalization
+Task 3: Predictive Analytics for Resource Allocation (model training & metrics)
+Ethical Reflection: Write the ethical reflection section on bias & fairness using IBM AI Fairness 360
+Deliverables:
+Final Jupyter Notebook for Task 3
+Ethical reflection write-up
+Team coordination & GitHub management
+🔹 Lukhanyo
+Role: Theoretical & QA Testing
+
+Theoretical Q2: Supervised vs. unsupervised learning for bug detection
+Task 2: Automated Testing with Selenium/Testim.io
+Deliverables:
+Automated test script and results screenshot
+150-word testing summary
+Contribute to final report formatting (PDF)
+🔹 Mike
+Role: AI Code Implementation & Evaluation
+
+Theoretical Q1: GitHub Copilot – benefits & limitations
+Task 1: AI-Powered Code Completion (manual vs. AI comparison)
+Deliverables:
+Code snippets (manual & AI-generated)
+200-word efficiency analysis
+Assist with bonus task (see Violet)
+🔹 Violet
+Role: Case Study & Creative Innovation
+
+Case Study: AIOps in DevOps – summary with 2 examples
+Bonus Task: Co-lead with Mike on proposing an AI tool for an unmet software need
+Deliverables:
+Case study analysis
+1-page proposal for bonus innovation task
+Support Jasper with video prep
+🔹 Jasper
+Role: Presentation Lead + Report Compilation
+
+Presentation: Create 3-minute video demo using content from all tasks
+Report: Compile PDF report (screenshots, answers, reflections, formatting)
+Deliverables:
+Final video demo (editing + voiceover)
+Report layout and visual enhancements
+Upload final article to the Community
+✅ Collaboration Notes:
+Everyone should contribute brief GitHub commit comments for transparency.
+Use a shared Google Doc for drafting report content.
+Tshimo and Jasper should double-check for plagiarism-free, well-written language in the final PDF and video script.
+Let me know if you'd like a timeline, checklist, or editable doc version of this breakdown.
+
+im doing an assignment, the info is above - we are 5 members, im Tshimo , help me do it step by step , im a beginner 

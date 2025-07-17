@@ -1,5 +1,7 @@
 ## Q1: Explain how AI-driven code generation tools (e.g., GitHub Copilot) reduce development time. What are their limitations?
-(Write answer here)
+AI-driven code generation tools like GitHub Copilot significantly reduce development time by providing intelligent code suggestions, auto-completing functions, and generating boilerplate code. These tools leverage large language models trained on vast codebases, enabling them to predict and suggest contextually relevant code snippets as developers type. This accelerates routine tasks, reduces the need to search for syntax or documentation, and helps maintain coding momentum. For example, Copilot can quickly generate repetitive functions, suggest test cases, or even write documentation, allowing developers to focus on higher-level problem-solving.
+
+However, these tools have limitations. They may produce code that is syntactically correct but semantically incorrect or insecure, especially for complex or domain-specific tasks. Over-reliance on AI suggestions can lead to reduced code understanding and critical thinking. Additionally, AI-generated code may inadvertently introduce bugs, security vulnerabilities, or licensing issues if not carefully reviewed. Therefore, while AI code generation tools are valuable productivity aids, developers must validate and understand the code they accept.
 
 ## Q2: Compare supervised and unsupervised learning in the context of automated bug detection.
 (Write answer here)

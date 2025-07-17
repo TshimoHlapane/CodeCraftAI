@@ -1,0 +1,7 @@
+## AI-Suggested vs. Manual Implementation: 
+### Efficiency and Insights
+For the task of sorting a list of dictionaries by a specific key, GitHub Copilot suggested a concise implementation using Python’s built-in sorted() function with a lambda expression. This approach is highly efficient, leveraging Python’s optimized sorting algorithms and resulting in clear, readable code. The AI-generated function is only a single line, easy to maintain, and less prone to errors.
+
+In contrast, my manual implementation uses a bubble sort algorithm, which is more verbose and less efficient, especially for large datasets. While it demonstrates an understanding of sorting logic, it is not as practical for real-world use due to its O(n²) time complexity compared to the built-in sort’s O(n log n). The manual version is also harder to read and maintain.
+
+This comparison highlights the strengths of AI code completion tools: they quickly suggest best-practice solutions, saving time and reducing cognitive load. However, it is still important for developers to understand the underlying logic to validate AI suggestions and adapt them to specific requirements. In this case, the AI-suggested code is both more efficient and preferable for production use.
